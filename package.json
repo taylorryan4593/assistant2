@@ -16,9 +16,4 @@
     "typescript": "^5.0.0"
   }
 }
-"scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start",
-  "postinstall": "echo 'Installed dependencies successfully!'"
-}
+
