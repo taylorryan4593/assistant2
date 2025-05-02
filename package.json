@@ -8,12 +8,12 @@
   },
   "dependencies": {
     "next": "latest",
+    "openai": "^4.0.0",
     "react": "latest",
-    "react-dom": "latest",
-    "openai": "^4.0.0"
+    "react-dom": "latest"
   },
   "devDependencies": {
+    "@types/react": "19.1.2",
     "typescript": "^5.0.0"
   }
 }
-
